@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sounds/tip.wav</file>
+        <file>sounds/alarm.wav</file>
+        <file>sounds/ding.wav</file>
+        <file>sounds/beep.wav</file>
+    </qresource>
+</RCC>
